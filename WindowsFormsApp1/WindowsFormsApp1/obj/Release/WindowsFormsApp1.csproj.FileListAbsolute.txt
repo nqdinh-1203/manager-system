@@ -1,0 +1,13 @@
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmLogin.resources
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmConnect.resources
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmNVList.resources
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+E:\Learning\Nam3\Sem2\Bảo mật CSDL\lab04\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
